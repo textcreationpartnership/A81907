@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A case of conscience, whether it be lawful to admit Jews into a Christian common-wealth? / Resolved by Mr John Dury: written to Samuel Hartlib, esquire.</title>
+            <author>Dury, John, 1596-1680.</author>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81907</idno><idno type="EEBO-CITATION">99866346</idno>
+  <idno type="VID">118617</idno>
+  <idno type="EEBO-PROQUEST">2240907317</idno>
+  
+            <idno type="STC">Wing D2838</idno>
+            <idno type="STC">Thomason E882_11</idno>
+            <idno type="STC">ESTC R207287</idno>
+            <idno type="PROQUEST">99866346</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866346e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81907)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118617)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 133:E882[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A case of conscience, whether it be lawful to admit Jews into a Christian common-wealth? / Resolved by Mr John Dury: written to Samuel Hartlib, esquire.</title>
+                  <author>Dury, John, 1596-1680.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Wodenothe, in Leaden-Hall street, next to the Golden Heart,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June. 27.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Jews --  Early works to 1800.</term>
+               <term type="topical_term">Jews --  Great Britain --  Social conditions --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118617:1"/>
+            <pb facs="tcp:118617:1"/>
+            <p>A CASE OF CONSCIENCE, <hi>Whether it be lawful to admit Jews into a Christian Common-wealth?</hi> RESOLVED BY M<seg rend="sup">r</seg> JOHN DURY: Written To <hi>Samuel Hartlib,</hi> Esquire.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Wodenothe,</hi> in Leaden-Hall street, next to the Golden Heart, 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:118617:2"/>
+            <pb n="1" facs="tcp:118617:2"/>
+            <head>
+               <hi>A CASE OF CONSCIENCE,</hi> Whether it be lawfull to admit Jews to come into a Christian Common-wealth? <hi>Resolved by Master</hi> John Dury Written to <hi>Samuel Hartlib,</hi> Esquire.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Find it the Practice of most of the Protestant Common-wealths here in <hi>Germany,</hi> to admit of the Jews, but they do it with a huge marke of distinction between them and others; By which meanes they are made vile and con<g ref="char:EOLhyphen"/>temptible. In the Cantons of <hi>Switzerland,</hi> they are not admitted, no not so much as to travell through the Country, or to come into a Town or City without leave, and paying a certain dutie, or to stay in a City, over Night; Which is said to befall unto them, by reason of some hainous Conspiracie, (to do a mischiefe to the Country, where they had Libertie to live,) attempted by them. I know none of the Reformed Churches or Divines, who makes their Ad<g ref="char:EOLhyphen"/>mission to be Unlawfull: but it is a worke, which the Civil Ma<g ref="char:EOLhyphen"/>gistrate takes wholly into his own consideration, to do, or not to do therein, what he findes expedient for the advantage of the
+<pb n="2" facs="tcp:118617:3"/>State; nor do I remember, to have read or heard, that the Case hath ever been put to any of the Churches, to be scanned as a matter of Conscience.</p>
+            <p>There is one of the Chief Reformed Divines, Doctor <hi>Alting,</hi> who in his Problematicall Theologie part. 2. problem: 21. puts this Question. <hi>Utrum Judaei in societate Christianorum tolerandi sint?</hi> And hee doth Answere it Affirmatively, And I am cleerly of his opinion, that it is not onely lawfull, but if matters be rightly ordered towards them, expedient to admit of them; Nay to invite and encourage them to live in Reformed Christian Com<g ref="char:EOLhyphen"/>mon-wealths: how far it may be a sin to refuse them admittance, when they do desire it, upon lawfull termes, and in a reasonable way, is a further Question, which cannot be decided, till the former points of the lawfullnesse and expediencie of admitting of them be made out.</p>
+            <p>The Apostle makes a large difference between things lawfull and expedient to be done. 1, <hi>Cor.</hi> 10, from Verse, 23. till the end of the Chapter. Things are said to be lawfull, which being lookt upon in themselves, are not repugnant to any law of God, or of nature; And consequently left free to be done, if there be some cause found inducing thereunto; or not to be done, if there be causes found to the Contrary: in which respect, things lawfull are counted indifferent, that is by themselves, not putting any obligation upon the Conscience, to determine it either for doing, or not doing, but leaving it at libertie to be determined by the Concurrence of other Circumstances, which make the doing or not doing of the thing good or bad, as cloathed with such and such qualities concomitant or consequent. An Example of con<g ref="char:EOLhyphen"/>comitant Circumstances, making an Action in it self lawfull, not to be expedient at a certain time, is given by the Apostle: 1 <hi>Cor.</hi> 10. <hi>Vers.</hi> 27.28.29. An example of of a thing, though lawfull, yet not expedient, by reason of a consequent Circum<g ref="char:EOLhyphen"/>stance, is given, 1. <hi>Cor.</hi> 6. <hi>Ver.</hi> 12.13. And another of the same kind, touching the receiving of wages, for doing the work of the Ministrie. 1. <hi>Cor.</hi> 9. <hi>Ver.</hi> 14.15.16.17.18. Which the Apostle shews, was not expedient for him to receive, though it was commanded by God to be given.</p>
+            <p>By this notion of lawfull and Expedient Actions, we must
+<pb n="3" facs="tcp:118617:3"/>look upon the admitting of the Jews, if the Question be in respect of lawfulness, without any limitation to be answered Affirmative<g ref="char:EOLhyphen"/>ly: for taking Jews as they are, that is, men a of strange Nation; Who are banished from the Country of their inheritance, and made pilgrim<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and wanderers through the world; A People in misery <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd distresse, and so an Object of hospitality, there is no doubt, out they may lawfully be received in to any civil Societie of men, to live and have a beeing therein, as strangers. For it is not lawfull for them, to desire to be received upon any other terms, because the rest of the world must be engrafted upon them towards God, and not they upon any other People. For in re<g ref="char:EOLhyphen"/>spect of Gods Providentiall Gouernment of the World, the pre<g ref="char:EOLhyphen"/>rogative is still theirs, to be a People, set a part above all others, for the manifestation both of his Mercies and Judgments. I say then that they being such a People set a part, not onely in their fore-fathers, but in their present state, for such an end, and in this state being made strangers every where, and not lawfull for them to make any other account of themselves. And God having re<g ref="char:EOLhyphen"/>commended the Entertainment of strangers as a speciall dutie of Charitie unto all Christians; and no Nation of the World be<g ref="char:EOLhyphen"/>ing a greater Object of charity, &amp; fitter to be pitied by Christians then Jews. It is clear to me, that if the Question be put in Gene<g ref="char:EOLhyphen"/>rall tearmes, concerning the Lawfulness of admitting of them; The answere cannot bee other then Affirmative. But if the Que<g ref="char:EOLhyphen"/>stion be made concerning the Expediencie of admitting of them, at such and such a time, in this or that place, upon these or these termes, Then I suppose the great Rules of Expediencie are to be observed, Which are (1.) In respect of Gods Glory, according to the Apostles direction. 1. <hi>Cor.</hi> 10. <hi>Ver.</hi> 31. <hi>Whether therefore ye eat or drink, or whatsoever ye do, do all to the Glory of God.</hi> What<g ref="char:EOLhyphen"/>soever then conduceth to the glory of God, is not only lawful, but expedient to be done (2.) In respect of our Neighbour, there is a Twofold Rule, the one is of Edification, the other avoiding Offences. The rule of Edification is expressed by the same. A<g ref="char:EOLhyphen"/>postle, in the same Chapter, <hi>Ver.</hi> 23.24. In these words. <hi>All things are lawfull for me, but all things are not Expedient. All things are lawfull for me, but all things edifie not; Let no man seeke his owne, but every one that which is anothers.</hi> Where the 23. <hi>Ver.</hi> puts
+<pb n="4" facs="tcp:118617:4"/>
+               <hi>not Expedient</hi> and <hi>not edifying</hi> for equivalent termes, expounding each other, and equidistant from that which is lawfull. And the 24. <hi>Ver.</hi> shewes what is meant by edifying. The Rule of avoid<g ref="char:EOLhyphen"/>ing Offence, is again in the same place expressed <hi>Ver.</hi> 32. <hi>Give no offence, neither to the Jews, nor to the Gentiles, nor to the Church of God. Even as I please all men,</hi> &amp;c. (3.) In respect of our selves the Rule is, that we our selves be not thereby deprived of our Christian or Civill Liberty: which the Apostle expresseth 1 <hi>Cor.</hi> 6.12. In these words: <hi>All things are lawfull for me, but all things are not Expedient; All things are lawfull for me, but I will not be brought under the power of any.</hi> If in the Circumstances of their admission nothing be found contrary to those Rules, but all can be made consonant to the Glory of God, to the Edification of others, without danger of Offence, and without bringing a yoke upon Our selves; Then their admission will be judged not onely lawfull, but also expedient; And to determine how the Circum<g ref="char:EOLhyphen"/>stances may agree with those Rules; doth belong chiefly to those, to whome the power of admitting of them is given by God; that is, to the Rulers of the State, without whose consent, no Societies ought to be formed in the State. For seeing the Jewes come into Christian Common-wealths, not as members thereof, but as strangers therein, and yet forme a Societie, or kind of Common-wealth amongst themselves, it can belong to none pertinently to judge of the Expediencle of admitting of them, but unto those whom God hath set over the Common-wealth to procure the welfare thereof: others may be consulted withall concerning particular Circumstances, which may be proposed unto them, to heare their opinion what they will judge of them; But upon the whole matter none ought to give a-verdict, but such as can compare all Circumstances at once, with the frame of the whole State, to discerne by the forenamed Rules, whether their ad<g ref="char:EOLhyphen"/>mission be expedient or not: And seeing it may stand in their owne power, by the admission of them, to order things so towards them, as to make all Circumstances Consonant to the Rules of Expediencie, I conceive, it will bee their dutie, when they are in<g ref="char:EOLhyphen"/>treated so to doe, to endeavor the performance thereof; And if they do not so, I know not how to excuse them from a failing in the dutie of their calling. And although particular Persons, to
+<pb n="5" facs="tcp:118617:4"/>whom the judgment, <hi>super tot am materiam,</hi> doth not belong, ought not to meddle beyond their line in the business; yet being required to contribute their assistance and advice, how to frame things in a way towards them; which is most expedient, they ought not to refuse it. Therefore I also shall put in my mite among the rest, although I am as a great distance for the present, and cannot know how things stand at home.</p>
+            <p>If then the Question be: How their Admission may be so Cir<g ref="char:EOLhyphen"/>cumstantiated, as to Answer the fore-named Rules of Expedi<g ref="char:EOLhyphen"/>encie? I would advise thus:</p>
+            <p n="1">1. To advance the glorie of God by their admission, I con<g ref="char:EOLhyphen"/>ceive they must be restrained from some things; and may be fair<g ref="char:EOLhyphen"/>ly induced to som other things. The things from which they must be restrained, are chiefly these. 1. Not to blaspheme the Person of Jesus Christ, or if any doth, that he shall be liable to the Law which <hi>Moses</hi> hath given, in case of blaspheming the Name of God. 2. Not to seduce any, or go about to make Proselites: or if any doth, he shall <hi>ipso facto</hi> forfeit his Libertie, or undergo some other heavier punishment. 3. Not to profane the Christi<g ref="char:EOLhyphen"/>an Sabbath, but to rest upon it, aswel as upon their own Sab<g ref="char:EOLhyphen"/>bath; and not to dishonor any of the Ordinances of Christia<g ref="char:EOLhyphen"/>nitie, under some punishment to be inflicted, sutable to the of<g ref="char:EOLhyphen"/>fence.</p>
+            <p>The things whereunto they may be fairely induced, are as I conceive these.
+<list>
+                  <item>1. To heare us, concerning the grounds which we have for Christianitie, and that with Patience, and without contradicting comentiously: but in case of doubts, that they should propose the same by way of Question to be resolved; that we may have cause to give them a reason of our Faith and Practice.</item>
+                  <item>2. To declare to us the grounds of all their Faith and Practice, and to Answer such Questions, as we happily may propose to be resolved by them, upon such a Declaration.</item>
+                  <item>3. To avoid on both fides all contradictory disputes in these Con<g ref="char:EOLhyphen"/>ferences, and not to trouble any of the weaker sort of either side, with the matters to be handled therein, but onely to set them a foot amongst a few of the Rabbies of each side, in a friendly way.</item>
+               </list> Here at Cassel something hath been intended this way, by ob<g ref="char:EOLhyphen"/>liging them to come once a Mouth to a Lecture, wherein the
+<pb n="6" facs="tcp:118617:5"/>grounds of Christianitie were opened unto them, and although few or none have been thereby so openly converted, as to embrace all the truth; Yet some of them have been so moved that they have wept much sometimes at the things which they have heard: also a small Catechisme of our beleefe, concerning the Messiah hath been penned for them, and they have been obliged to read it, and learne it, so as to Answer to the Question contained therein, that it might appeare they were not ignorant of our meaning, for the aim was onely to glorifie God in this. For the glorie of our God is chiefely made manifest in his Truth and faithfulness to make good his Word? for he hath <hi>Magnified his word above all his workes;</hi> And if we can order their admission so, as to manifest unto them the truth of his Word revealed unto us by the promises of the Gospell, in the knowledge of his Name; and so lay that knowledg before them in the Lumpe, that they cannot but see that God hath appeared unto us, and doth rule us by Spirit and Truth, and makes a great difference between our Com<g ref="char:EOLhyphen"/>munion with himself and their Literall worshiping of him; if (I say) we can contrive in their admission the business so towards them, that they shall not onely be restrained from dishonouring our God and his Ordinances, or overthrowing his truth in the minds of any, but that they shall be made to see the goodnesse of Gods mercy to us, that he hath adopted us to be his People in their stead; Then the first Rule of Expediencie will be observed, and there wil be no great difficultie to contrive the business so, that the other rules also will be put in practise. Now concerning the Me<g ref="char:EOLhyphen"/>thod of spiritual Prudencie how to goe about this work towards them, is a subiect too large to be entred upon at this time: One Caveat onely may be suggested at present, which is this; That the scanning of particular questions and doubts which they may have concerning the Genealogie of Christ, and other circum<g ref="char:EOLhyphen"/>stantial matters in the New Testament, should be avoided, and the main undeniable Truths wherein the Old and New Testa<g ref="char:EOLhyphen"/>ment agree, and which make up the substance of Saving Know<g ref="char:EOLhyphen"/>ledge, and of the Practice of Pietie, and the fulfilling both of the Promises made to Us, and the, Threatnings denonnced against Them, should be onely insisted upon, and branched out; to let them see the Bodie of the whole Truth of God, made out to us,
+<pb n="7" facs="tcp:118617:5"/>and our endeavour to glorifie God thereby.</p>
+            <p>And thus much shall be at this time hinted at, concerning the Observation of the first Rule of Expediencie towards them in their Admission; which being not onely feasable, but a main du<g ref="char:EOLhyphen"/>tie incumbent to all Christian Magistrates to intend and endea<g ref="char:EOLhyphen"/>vour: It is to me evident, that their Admission is not onely law<g ref="char:EOLhyphen"/>ful, but Expedient also.</p>
+            <p n="2">II. To advance their Edification by their admission, accor<g ref="char:EOLhyphen"/>ding to the second Rule of Expediencie. I conceive matters may be so ordered towards them, that they may be made to under<g ref="char:EOLhyphen"/>stand, that the intention of the State in admitting of them, is not to have profit or temporall advantages by them; (which may be had aswell by our owne industrie, and perhaps better, without theirs) but rather out of Christian love and compassion towards them, and in witness of our thankfulness to God, for the good which hath been derived from them to us; and for the hope which we have, that all his goodness shall be fulfilled both in them and us, when the Messiah shall returne in his Glory. The Apostle saith, <hi>that Charitie edifieth,</hi> and it is a truth, approved by daily experi<g ref="char:EOLhyphen"/>ence, that without Charitie, no ground can be laid of mutuall commerce, or increase of good things, mutually-communicable. Therefore I would suggest humbly this; that to open a doore in their hard hearts, for doing good unto them, the Charitie of the State in the act of their admission, should be ratified to wards them &amp; they made fully sensible, that it is not for any profit, which they can bring to the State that they are admitted, but for a desire in us, for doing them good; for the good which through their Miserie is befallen to us Gentiles <hi>viz:</hi> that we have the Oracles of God by their meanes, preserved and conveyed to us, and the knowledge, and the accomplishment of the benefit of all the promises, where<g ref="char:EOLhyphen"/>of we desire, that they may be made partakers again with us: and this being made professedly the ground of their Admission: <hi>viz.</hi> our Thankfulnesse to God, to shew that mercie to them which he hath shewed to us: All other duties of good will, and lawful communion, tending to the accomplishment of this end, may be wisely and kindely built thereupon, so as without prejudice they will be glad to receiv the same, and entertein the motions which we may make to that effect; and amongst other effects of our
+<pb n="8" facs="tcp:118617:6"/>love, they may receive by the same act of their Admission an assu<g ref="char:EOLhyphen"/>rance, that in all Treaties with the Nations which persecute and oppress them, a care shal be had of them &amp; their Interests; as with <hi>Spain</hi> and <hi>Portugall,</hi> and the Grand <hi>Signior,</hi> and others, if any be, who seek to destroy them: That in publick Transactions their libertie of living with them shal be procured so far, as in the power of our State shall lie by Gods permission.</p>
+            <p n="3">III. To avoid offences between them &amp; us, in admitting of them, it will be expedient that they live by themselvs, and that their worship be performed in their own tongue: that the insolencies which the common sort of both sides may use one towards ano<g ref="char:EOLhyphen"/>ther, be prevented by Laws and special Orders, to keep them from incroaching upon others beyond their bounds; for they are naturally more high minded then other Nations, and make lesse conscience of oppressing the Gentiles then others do; because they finde they are oppressed by them, and imagine themselves the onely noble people in the world; and therefore aspire to have, not onely libertie to live by themselvs, but riches and power over others, where ever they can get it; which inclinations of theirs be<g ref="char:EOLhyphen"/>ing the chief causes of offences, must be prevented, not as here in <hi>Germany,</hi> by making them base and vile; but by other more friend<g ref="char:EOLhyphen"/>ly wayes, which prudencie and equitie will suggest.</p>
+            <p n="4">IV. To avoid the temporall incoveniencies which may arise from their covetous practices and biting usury, and other subti<g ref="char:EOLhyphen"/>lities in trade, by which we of the Nation may be prejudged in our Liberty, and brought in some respect or other under their power. The wisdome of the State will looke to it, nor is it in my way to take it into consideration: Therefore I shall leave this last Rule of expediencie unto their vigilancie, and draw to a conclu<g ref="char:EOLhyphen"/>sion of these suggestons, wherein I have no more to say but this. That if they desire admittance, and will receive it in a way where<g ref="char:EOLhyphen"/>in these Rules can be observed, then they should be admitted, and that it will be a finne in those who will not admitte them upon these termes; or who will not propose such termes as these unto them, when they desire admittance; or who having an opportu<g ref="char:EOLhyphen"/>nitie to invite them in their distresse, do not minde these princi<g ref="char:EOLhyphen"/>ples in admitting of them to give them, entertainment in their Common-wealth. At for other Considerations of future hopes, al<g ref="char:EOLhyphen"/>though
+<pb n="9" facs="tcp:118617:6"/>I believ as much of them, as most men do; yet I can draw no argument from thence for any particular admittance of them at this time, because I know that the times and seasons of their deliverance is in Gods hand alone, and that we are very much in<g ref="char:EOLhyphen"/>clined to mistake in conjectures of that nature. But the Univer<g ref="char:EOLhyphen"/>sal Rules which are grounded upon the main Ends and duties of Christianitie, must be observed by those that will trust unto God for a blessing upon their endeavors. And when they have (to<g ref="char:EOLhyphen"/>wards such Ends, and according to such Duties) done that which they think is acceptable to God, then they ought to acquiesce, and leave the issue to Providence, which I am perswaded will be favo<g ref="char:EOLhyphen"/>rable to the State. And in this assurance I resi ever,</p>
+            <closer>
+               <salute>SIR!</salute>
+               <signed>
+                  <hi>Your most affectionate and<lb/> faithful servant in Christ</hi>
+                  <lb/> JOHN DURY.</signed>
+               <dateline>
+                  <hi>Cassell,</hi> in haste,<lb/>
+                  <date>Januarie 8. 1656.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Postscript.</head>
+            <p>Concerning the Jewes, if I can, I will send you the Ab<g ref="char:EOLhyphen"/>stract of the Lawes, by which they are received here. Our State doth wisely to goe warily, and by degrees, in the busines of receiving them. <hi>Menasseh Ben Israels</hi> Demands are great, and the use which they make of great Priviledges, is not much to their commendation here, and elswhere. They have wayes beyond all other men, to undermine a State, and to in<g ref="char:EOLhyphen"/>sinuate into those that are in Offices, and prejudicate the Trade of others: and therefo<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> if they be not wisely restrained they will in short <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> oppressive, if they be such as are <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rait's</hi> would fright away these <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Enemies. Time must ripen <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> may lead them on.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
